@@ -1,1 +1,2 @@
 # kanata
+my kanata configs
